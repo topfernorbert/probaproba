@@ -1,29 +1,3 @@
-"""
-1. Feladat: Keressük a téglalap kerületét
-
-Készíts egy python applikációt (egy darab python file) ami selenium-ot használ.
-Az ellenőrzésekhez pytest keretrendszert használj, valamint fontos az `assert` összehasonlítások használata is!
-
-A program töltse be a téglalap kerülete app-ot. https://high-flyer.hu/hetihazi/feladat2_email.html
-
-Feladatod, hogy automatizáld selenium webdriverrel az alábbi funkcionalitásokat a téglalap kerülete appban:
-
-* Helyes kitöltés esete:
-    * a: 74
-    * b: 32
-    * Eredmény: 212
-
-* Nem számokkal történő kitöltés:
-    * a: kiskutya
-    * b: 32
-    * Eredmény: NaN
-
-* Üres kitöltés:
-    * a: <üres>
-    * b: <üres>
-    * Eredmény: NaN
-"""
-
 import os
 from selenium import webdriver
 from selenium.webdriver import ChromeOptions
