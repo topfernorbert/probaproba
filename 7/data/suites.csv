@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 18 14:46:42 GMT 2024","Thu Jul 18 14:46:42 GMT 2024","296","","test_teglalap","TestRectangle","","","test_fill_valid",""
+"passed","Thu Jul 18 14:46:44 GMT 2024","Thu Jul 18 14:46:44 GMT 2024","54","","test_teglalap","TestRectangle","","","test_no_fill",""
+"passed","Thu Jul 18 14:46:43 GMT 2024","Thu Jul 18 14:46:43 GMT 2024","133","","test_teglalap","TestRectangle","","","test_fill_invalid",""
